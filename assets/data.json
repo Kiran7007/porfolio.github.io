@@ -1,0 +1,106 @@
+{
+    "name": "Kiran Punwatkar",
+    "email": "kiran.punwatkar@gmail.com",
+    "subtitles": [
+        "Android Developer",
+        "Flutter Developer",
+        "LinkedIn Top Voice"
+    ],
+    "blackWhitePhotoURL": "https://github.com/user-attachments/assets/2c2ee401-2b5b-4ca8-b212-299e060d02ea",
+    "coloredPhotoURL": "https://github.com/user-attachments/assets/f10f8f75-bdf1-439f-89a2-e4c9f9ab51aa",
+    "socialLinks": [
+        {
+            "platform": "facebook",
+            "url": "https://www.facebook.com/kiran.punwatkar.007"
+        },
+        {
+            "platform": "instagram",
+            "url": "https://www.instagram.com/kiran.punwatkar/"
+        },
+        {
+            "platform": "twitter",
+            "url": "https://twitter.com/PunwatkarKiran"
+        },
+        {
+            "platform": "linkedin",
+            "url": "https://www.linkedin.com/in/kiran-punwatkar/"
+        },
+        {
+            "platform": "github",
+            "url": "https://github.com/Kiran7007"
+        },
+        {
+            "platform": "leetcode",
+            "url": "https://leetcode.com/u/user8495QG/"
+        }
+    ],
+    "aboutMeHeadline": "I'm Kiran Punwatkar, Android & Flutter developer, LinkedIn Top Voice.",
+    "aboueMeDetails": "I am highly skilled Software Engineer with 8 years of experience. Proven expertise in Medical, Healthcare and Banking mobile domain\nmobile applications. Proficient development skills with Kotlin, Java, Android SDK, JSON, GCM/FCM, Material Design, Retrofit, Room, Firebase. Demonstrated success in creating scalable systems using large language models (LLMs) and delivered products that exceed\nexpectations using MVP, MVVM and MVI architecture pattern. Experienced in Dagger & Koin dependency injection. Hands on experience\nwith Google maps, Geo location & google analytics.",
+    "technologies": [
+        "Android",
+        "Kotlin",
+        "Java",
+        "Flutter",
+        "Dart",
+        "Coroutine",
+        "MVVM"
+    ],
+    "services": [
+        {
+            "icon": "assets/services/app.png",
+            "name": "Mobile App Development",
+            "description": "Android app development via Flutter\n- Splash Screen\n- Firebase Auth/Cloud\n- REST APIs\n- Maps integration and more...!"
+        },
+        {
+            "icon": "assets/services/ui.png",
+            "name": "UI/UX Designing",
+            "description": "Modern UI/UX Designing\n- Adobe XD\n- Mobile & Web designs\n- Interactive UI designs\n- Responsiveness\n- Promo Videos and more..!"
+        },
+        {
+            "icon": "assets/services/rapid.png",
+            "name": "Rapid Prototyping",
+            "description": "Rapid Prototype via Flutter\n- Working MVP\n- Quick & Working prototype"
+        },
+        {
+            "icon": "assets/services/blog.png",
+            "name": "Technical Blog Writing",
+            "description": "Technical Blog writing\n- Medium blogs\n- Soothing header images\n- SEO friendly\n- Researched topics and more..!"
+        },
+        {
+            "icon": "assets/services/open.png",
+            "name": "Open Source - GitHub",
+            "description": "Open source GitHub Projects\n- Awesome README.md\n- Well documented\n- Header images and more...!"
+        }
+    ],
+    "hireMe": {
+        "whatsapp": "+91 7020057643"
+    },
+    "projects": [
+        {
+            "title": "Awesome SnackBar",
+            "iconUrl": "https://drive.google.com/file/d/1EohcZdd5mg5dqHQIn24k_G0dpqQTFYwV/view?usp=sharing",
+            "bannerUrl": "assets/projects/medkitB.png",
+            "description": "A dart package including a wholesome experience of snackbar in your applications."
+        },
+        {
+            "title": "MedKit",
+            "iconUrl": "https://drive.google.com/file/d/1nr1FHUkACm5cg2MpXKNftUeKw888NcJt/view?usp=sharing",
+            "bannerUrl": "assets/projects/medkitB.png",
+            "description": "A Phramacy app developed using Flutter powered with Firebase as database with Doctor and Patient panels."
+        }
+    ],
+    "contact": [
+        {
+            "param": "address",
+            "value": "Nagpur, Maharashtra, India"
+        },
+        {
+            "param": "phone",
+            "value": "+91 7020057643"
+        },
+        {
+            "param": "email",
+            "value": "kiran.punwatkar@gmail.com"
+        }
+    ]
+}
